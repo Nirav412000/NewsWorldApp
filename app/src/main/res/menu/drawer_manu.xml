@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/home" />
+        <item
+            android:id="@+id/politics"
+            android:title="Politics"
+            android:icon="@drawable/politics" />
+        <item
+                android:id="@+id/crime"
+                android:title="Crime"
+                android:icon="@drawable/crime" />
+        <item
+                android:id="@+id/bollywood"
+                android:title="Bollywood"
+                android:icon="@drawable/bollywood"
+                />
+        <item
+                android:id="@+id/sports"
+                android:title="Sports"
+                android:icon="@drawable/sports"
+                />
+        <item
+                android:id="@+id/covid19"
+                android:title="Covid_19"
+                android:icon="@drawable/covid"
+                />
+        </menu>
+    </item>
+    <item android:title="Communication">
+        <menu>
+        <item
+            android:id="@+id/share"
+            android:title="Share"
+            android:icon="@drawable/share"
+            />
+        <item
+            android:id="@+id/contact_us"
+            android:title="Contact Us"
+            android:icon="@drawable/contactus"
+            />
+        </menu>
+    </item>
+
+</menu>

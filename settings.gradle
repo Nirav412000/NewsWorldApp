@@ -1,0 +1,2 @@
+rootProject.name='NewsWorld2'
+include ':app'
