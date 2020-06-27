@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "319154572257",
+    "firebase_url": "https://newsworld-e4cbf.firebaseio.com",
+    "project_id": "newsworld-e4cbf",
+    "storage_bucket": "newsworld-e4cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319154572257:android:d845f998906bc11b8f20a0",
+        "android_client_info": {
+          "package_name": "com.example.newsworld2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319154572257-m325if1c6auebr22e8sj3cn8bsuco18n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsworld2",
+            "certificate_hash": "9fd399db057d9447cb73511687aa6b8f6621aa91"
+          }
+        },
+        {
+          "client_id": "319154572257-84tq2d1ao1b0j7qi45ruhvgq5et5s0dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAId-v1sbKJVaCmeyVigwdK2Axjc0mFR8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319154572257-84tq2d1ao1b0j7qi45ruhvgq5et5s0dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319154572257:android:45d29bf8ef5195368f20a0",
+        "android_client_info": {
+          "package_name": "com.example.newsworldadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319154572257-cvbiqv933u23p7u6urf7epktv2l0llv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsworldadmin",
+            "certificate_hash": "9fd399db057d9447cb73511687aa6b8f6621aa91"
+          }
+        },
+        {
+          "client_id": "319154572257-84tq2d1ao1b0j7qi45ruhvgq5et5s0dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAId-v1sbKJVaCmeyVigwdK2Axjc0mFR8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319154572257-84tq2d1ao1b0j7qi45ruhvgq5et5s0dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
